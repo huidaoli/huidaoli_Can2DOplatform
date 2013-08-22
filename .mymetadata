@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="can2do"
+  id="myeclipse.1371956818200"
+  context-root="/can2do"
+  j2ee-spec="1.4"
+  archive="can2do.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
